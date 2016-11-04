@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c405e848-d31c-44cb-8c5e-ae72de572f7b" name="KeriganMarketing" url="http://keriganmarketing.com">
+        <fileTransfer host="104.218.13.63" port="7822" rootFolder="/home/keriganmarketing/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="7822" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
