@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Sites/tyndallenews.org/2016/email-templates/eoffer_mobimoney_110916.html" timestamp="1478730227822">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="/Volumes/Sites/tyndallenews.org/2016/email-templates/eoffer_mobimoney_110916.html" timestamp="1478731933458">
+        <mark key="[" line="100" column="308" />
+        <mark key="]" line="100" column="288" />
+        <mark key="^" line="100" column="288" />
+        <mark key="." line="100" column="288" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1478547805849">
         <mark key="[" line="116" column="0" />
@@ -59,14 +60,17 @@
       <register name="a" type="4">
         <text>#5c8eba</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text>000000</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>000000</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzAwMDAwMDsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxNXB4OyBsaW5lLWhlaWdodDoyMnB4O3BhZGRpbmc6MDsgbWFyZ2luOjE1cHggMTBweDsiPk91ciBuZXcgTW9iaU1vbmV5IGFwcCBwdXRzIGNhcmQgY29udHJvbCBpbiB0aGUgcGFsbSBvZiB5b3VyIGhhbmQuIE1vbml0b3IgYW5kIG1hbmFnZSB5b3VyIGNhcmQgZnJvbSBhbnl3aGVyZSBhdCBhbnl0aW1lLjwvcD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQo=</text>
