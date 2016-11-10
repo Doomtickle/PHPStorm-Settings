@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Sites/tyndallenews.org/2016/email-templates/eoffer_mobimoney_110916.html" timestamp="1478731933458">
-        <mark key="[" line="100" column="308" />
-        <mark key="]" line="100" column="288" />
-        <mark key="^" line="100" column="288" />
-        <mark key="." line="100" column="288" />
+      <file name="/Volumes/Sites/tyndallenews.org/2016/email-templates/eoffer_mobimoney_110916.html" timestamp="1478791369450">
+        <mark key="[" line="106" column="101" />
+        <mark key="]" line="106" column="119" />
+        <mark key="^" line="106" column="123" />
+        <mark key="." line="106" column="119" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1478547805849">
         <mark key="[" line="116" column="0" />
@@ -61,10 +61,10 @@
         <text>#5c8eba</text>
       </register>
       <register name="&quot;" type="4">
-        <text>000000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>000000</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
