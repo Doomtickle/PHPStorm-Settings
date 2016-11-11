@@ -73,6 +73,12 @@
         <mark key="^" line="106" column="14" />
         <mark key="." line="106" column="14" />
       </file>
+      <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical.css" timestamp="1478882543634">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="2" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="122" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" />
@@ -95,10 +101,10 @@
         <text encoding="base64">CS8qIHJlbW92ZSB0aGVzZSB0d28gYWZ0ZXIgc2Vhc29uIGhvdXJzIGFyZSBvdmVyKi8KCSNmb290ZXItYm90IHsKCQlwYWRkaW5nLWJvdHRvbTogMTAwcHggIWltcG9ydGFudDsKCX0KCgkuc2Vhc29uYWwtaG91cnMgewoJCWhlaWdodDogMTAwcHggIWltcG9ydGFudDsKCX0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>footer seas</text>
