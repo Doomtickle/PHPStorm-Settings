@@ -42,11 +42,11 @@
         <mark key="." line="67" column="96" />
         <mark key="^" line="67" column="95" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1479490052507">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1479497490290">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="85" />
+        <mark key="." line="28" column="85" />
+        <mark key="^" line="28" column="85" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/template-parts/content-listing.php" timestamp="1478557711429">
         <mark key="[" line="73" column="31" />
@@ -68,10 +68,10 @@
         <mark key="^" line="1854" column="26" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/plugins/wp-ical-availability/wp-ical-availability.php" timestamp="1479311002922" />
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1478547805849">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1479497392726">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/style.css" timestamp="1478552868126">
         <mark key="'" line="180" column="0" />
@@ -80,11 +80,10 @@
         <mark key="." line="224" column="10" />
         <mark key="^" line="224" column="64" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/header.php" timestamp="1478547919302">
-        <mark key="[" line="20" column="83" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="12" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/header.php" timestamp="1479497233666">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="107" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/template-parts/content-rental-search.php" timestamp="1479233408727">
         <mark key="'" line="18" column="4" />
@@ -128,46 +127,49 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CS8qIHJlbW92ZSB0aGVzZSB0d28gYWZ0ZXIgc2Vhc29uIGhvdXJzIGFyZSBvdmVyKi8KCSNmb290ZXItYm90IHsKCQlwYWRkaW5nLWJvdHRvbTogMTAwcHggIWltcG9ydGFudDsKCX0KCgkuc2Vhc29uYWwtaG91cnMgewoJCWhlaWdodDogMTAwcHggIWltcG9ydGFudDsKCX0K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgLy8gcGFnZSBpcyBub3cgcmVhZHksIGluaXRpYWxpemUgdGhlIGNhbGVuZGFyLi4uCgogICAgICAgICAgICAkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoewogICAgICAgICAgICAgICAgLy8gcHV0IHlvdXIgb3B0aW9ucyBhbmQgY2FsbGJhY2tzIGhlcmUKICAgICAgICAgICAgfSkKCiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/locale/en-ca.js</text>
+      </register>
+      <register name="b" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/locale/en-ca.js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGxp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZvbnQtZmFtaWx5OiBsb25kcmluYV9zb2xpZHJlZ3VsYXIsIHNhbi1zZXJpZjsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3JhdGVZby8yLjIuMC9qcXVlcnkucmF0ZXlvLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkkdHlwZSA9Owo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJJzwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZnVsbGNhbGVuZGFyLzMuMC4xL2Z1bGxjYWxlbmRhci5taW4uY3NzIj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZnVsbGNhbGVuZGFyLzMuMC4xL2Z1bGxjYWxlbmRhci5taW4uY3NzIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJyb3ciPgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZnVsbGNhbGVuZGFyLzMuMC4xL2Z1bGxjYWxlbmRhci5taW4uY3NzIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwYWRkaW5nLXRvcDoxMHB4Owo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgLy8gcGFnZSBpcyBub3cgcmVhZHksIGluaXRpYWxpemUgdGhlIGNhbGVuZGFyLi4uCgogICAgICAgICAgICAkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoewogICAgICAgICAgICAgICAgLy8gcHV0IHlvdXIgb3B0aW9ucyBhbmQgY2FsbGJhY2tzIGhlcmUKICAgICAgICAgICAgfSkKCiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8qIHJlbW92ZSB0aGVzZSB0d28gYWZ0ZXIgc2Vhc29uIGhvdXJzIGFyZSBvdmVyKi8KCSNmb290ZXItYm90ewoJCXBhZGRpbmctYm90dG9tOjEwMHB4OwoJfQoJLnNlYXNvbmFsLWhvdXJzewoJCWhlaWdodDoxMDBweDsKCX0KCS8qICBFbmQgU2Vhc29uYWwgSG91cnMgKi8K</text>
+        <text encoding="base64">CQkJCQkkdHlwZSA9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8IS0tIFN0YXJ0IHNlYXNvbmFsIGhvdXJzIGZvb3RlciAtLT4KCQk8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgoJCQk8ZGl2IGNsYXNzPSJyb3ciPgoJCQkJPGRpdiBjbGFzcz0iY29sLW1kLTEyIiBzdHlsZT0icG9zaXRpb246Zml4ZWQ7IGxlZnQ6MDsgYm90dG9tOjA7IGhlaWdodDo1MHB4OyBwYWRkaW5nLWJvdHRvbTo1MHB4OyB3aWR0aDoxMDAlOyBiYWNrZ3JvdW5kOiNGNThDM0E7dGV4dC1hbGlnbjpjZW50ZXI7ei1pbmRleDo5OTk5OTk5OTsiPgoJCQkJCTxwIHN0eWxlPSJjb2xvcjojZmZmOyBmb250LWZhbWlseTogdW5kZXJ3b29kX2NoYW1waW9ucmVndWxhciwgc2FuLXNlcmlmOyBmb250LXNpemU6MTVweDsiPgoJCQkJCQlXZSB3aWxsIGJlIGNsb3NlZCBvbiBNb25kYXlzIGFuZCBUdWVzZGF5cyBmcm9tIDExLzkvMjAxNiB0aHJvdWdoIDExLzIyLzIwMTYuICBBbHNvIGNsb3NlZCAxMS8yMyAmIDExLzI0LgoJCQkJCTwvcD4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQk8L2Rpdj4KCQk8IS0tIEVuZCBzZWFzb25hbCBob3VycyBmb290ZXIgLS0+Cg==</text>
+        <text encoding="base64">CQkJCQkJJzwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWluLXdpZHRoOiAyMDAwcHgpewoJI3NlY3Rpb24tb25lewoJCW1pbi1oZWlnaHQ6NzAwcHg7Cgl9Cn0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
     </registers>
     <search>
