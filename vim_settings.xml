@@ -42,12 +42,11 @@
         <mark key="." line="67" column="96" />
         <mark key="^" line="67" column="95" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1480544220139">
-        <mark key="'" line="89" column="83" />
-        <mark key="[" line="90" column="26" />
-        <mark key="]" line="90" column="17" />
-        <mark key="." line="90" column="17" />
-        <mark key="^" line="90" column="43" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1480546224864">
+        <mark key="[" line="118" column="90" />
+        <mark key="]" line="118" column="90" />
+        <mark key="." line="118" column="90" />
+        <mark key="^" line="118" column="78" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/template-parts/content-listing.php" timestamp="1480539533787">
         <mark key="[" line="27" column="17" />
@@ -150,19 +149,21 @@
       <jump line="119" column="1" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="48" column="196" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/template-parts/content-rental-search.php" />
       <jump line="86" column="83" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
+      <jump line="88" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
+      <jump line="67" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgaGFzLWZlZWRiYWNrIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1jYWxlbmRhciBmb3JtLWNvbnRyb2wtZmVlZGJhY2siPjwvaT4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0icmVudGFsLXNlYXJjaC1kZXBhcnR1cmUiIGlkPSJyZW50YWwtc2VhcmNoLWRlcGFydHVyZSIgY2xhc3M9ImZvcm0tY29udHJvbCIgcGxhY2Vob2xkZXI9IkRlcGFydCIgLz4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="a" type="4">
+        <text encoding="base64">c3RyX3JlcGxhY2UoJ3YnLCAnJywgJGxpc3RpbmdJZCkgLicmdW5pdElkPScuJHVuaXRJZA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>carousel</text>
@@ -170,32 +171,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICRkZXBhcnQgPSBEYXRlVGltZTo6Y3JlYXRlRnJvbUZvcm1hdCgnbS9kL1knLCAkZGVwYXJ0KS0+Zm9ybWF0KCdZLW0tZCcpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cHJpbnRfcigkanNvbjIpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3RyX3JlcGxhY2UoJ3YnLCAnJywgJGxpc3RpbmdJZCkgLicmdW5pdElkPScuJHVuaXRJZA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGpzb24yID0gJGJvb2tpbmdSZXNwWydib2R5J107Cg==</text>
+        <text encoding="base64">cHJpbnRfcigkanNvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgJzY2NDE4NjQnOgogICAgICAgIGVjaG8gIllvdXIgZmF2b3JpdGUgY29sb3IgaXMgYmx1ZSEiOwogICAgICAgIGJyZWFrOwogICAgY2FzZSAiZ3JlZW4iOgogICAgICAgIGVjaG8gIllvdXIgZmF2b3JpdGUgY29sb3IgaXMgZ3JlZW4hIjsKICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pz4K</text>
+        <text encoding="base64">cHJpbnRfcigkanNvbjIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkdW5pdElkOwo=</text>
+        <text encoding="base64">JGpzb24yID0gJGJvb2tpbmdSZXNwWydib2R5J107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdodHRwczovL3dzLmhvbWVhd2F5LmNvbS9wdWJsaWMvc2VhcmNoP3E9JyAuICRwb3N0IC4gJyZwYWdlPScgLiAkaSAuICcmcGFnZVNpemU9MzAmaW1hZ2VTaXplPU1FRElVTSZhdmFpbGFiaWxpdHlTdGFydD0nLiRhcnJpdmFsLicmYXZhaWxhYmlsaXR5RW5kPScuJGRlcGFydC4nJm1pblNsZWVwcz0nLiRndWVzdHM7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pz4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAkZGVwYXJ0Owo=</text>
+        <text encoding="base64">ZWNobyAkdW5pdElkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcDsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdodHRwczovL3dzLmhvbWVhd2F5LmNvbS9wdWJsaWMvc2VhcmNoP3E9JyAuICRwb3N0IC4gJyZwYWdlPScgLiAkaSAuICcmcGFnZVNpemU9MzAmaW1hZ2VTaXplPU1FRElVTSZhdmFpbGFiaWxpdHlTdGFydD0nLiRhcnJpdmFsLicmYXZhaWxhYmlsaXR5RW5kPScuJGRlcGFydC4nJm1pblNsZWVwcz0nLiRndWVzdHM7Cg==</text>
       </register>
     </registers>
     <search>
@@ -227,6 +228,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
