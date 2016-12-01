@@ -105,12 +105,12 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-properties.php" timestamp="1480623750255">
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-properties.php" timestamp="1480625364067">
         <mark key="'" line="126" column="19" />
         <mark key="[" line="65" column="37" />
-        <mark key="]" line="91" column="56" />
-        <mark key="." line="91" column="56" />
-        <mark key="^" line="114" column="50" />
+        <mark key="]" line="65" column="37" />
+        <mark key="." line="65" column="37" />
+        <mark key="^" line="104" column="55" />
       </file>
       <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/themes/cool/testimonials.php" timestamp="1480608266217">
         <mark key="'" line="13" column="4" />
@@ -222,13 +222,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzZWFyY2gtYm9yZGVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvbGlzdGluZy8/bGlzdGluZ0lkPScgLiAkdmFsdWVbJ2xpc3RpbmdJZCddIC4gJyZhZHVsdHNDb3VudD0nIC4gJGd1ZXN0cyAuICcmYXJyaXZhbERhdGU9JyAuICRhcnJpdmFsIC4gJyZkZXBhcnR1cmVEYXRlPScgLiAkZGVwYXJ0IC4gJyI+PGgzIGNsYXNzPSJwcm9wZXJ0eS1yZXN1bHRzLWhlYWRsaW5lIj4nIC4gJHZhbHVlWydoZWFkbGluZSddIC4gJzwvaDM+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0iaW1nIGltZy1yZXNwb25zaXZlIHByb3BlcnR5LXNlYXJjaC1pbWFnZSIgc3JjPSInIC4gJHZhbHVlWyd0aHVtYm5haWwnXVsnc2VjdXJlVXJpJ10gLiAnIi8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC04IGRldGFpbHMtcCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJwcm9wZXJ0eS1yZXN1bHRzLWRlc2NyaXB0aW9uIj4nIC4gJHZhbHVlWydkZXNjcmlwdGlvbiddIC4gJzwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+QXZlcmFnZSBOaWdodGx5IFJhdGU6ICQnIC4gJHZhbHVlWydwcmljZVF1b3RlJ11bJ2F2ZXJhZ2VOaWdodGx5J10gLiAnPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD5CZWRyb29tczogJyAuICR2YWx1ZVsnYmVkcm9vbXMnXSAuICc8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPkJhdGhyb29tczogJyAuICR2YWx1ZVsnYmF0aHJvb21zJ10gLiAnPC9wPic7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHZhbHVlWydyZXZpZXdDb3VudCddID09IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICc8cD5SYXRpbmc6IE5vIHJldmlld3MgeWV0IDwvcD4nOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmICgkdmFsdWVbJ3Jldmlld0NvdW50J10gPT0gMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJzxwPlJhdGluZzogJyAuIHJvdW5kKCR2YWx1ZVsncmV2aWV3QXZlcmFnZSddLCAxKSAuICcgc3RhcnMgKCcgLiAkdmFsdWVbJ3Jldmlld0NvdW50J10gLiAnIHJldmlldykuPC9wPic7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJzxwPlJhdGluZzogJyAuIHJvdW5kKCR2YWx1ZVsncmV2aWV3QXZlcmFnZSddLCAxKSAuICcgc3RhcnMgICgnIC4gJHZhbHVlWydyZXZpZXdDb3VudCddIC4gJyByZXZpZXdzKS48L3A+JzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pic7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>d</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>carousel</text>
