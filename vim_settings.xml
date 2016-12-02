@@ -100,11 +100,11 @@
         <mark key="^" line="70" column="58" />
         <mark key="." line="70" column="58" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1480705855795">
-        <mark key="[" line="157" column="51" />
-        <mark key="]" line="158" column="104" />
-        <mark key="." line="158" column="104" />
-        <mark key="^" line="158" column="104" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1480709938395">
+        <mark key="[" line="277" column="87" />
+        <mark key="]" line="277" column="87" />
+        <mark key="." line="277" column="87" />
+        <mark key="^" line="277" column="87" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-blog.php" timestamp="1480609460544">
         <mark key="[" line="120" column="0" />
@@ -234,13 +234,13 @@
         <text encoding="base64">ICAgICRsaXN0aW5nQ2FsZW5kYXJBcnJheSA9IGFycmF5KAogICAgICAgICd2Njc1ODg1JyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9mZmVkOWJjOTlhMzg0N2EwYjFjZmNkZmU1NDg4ODFmZi5pY3MnLAogICAgICAgICd2NjYxODY0JyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci8wYWQwMTlmOGRkNDE0YmI0YWJlMzljMzk0YjU2MjExNi5pY3MnLAogICAgICAgICd2NTg0MTE1JyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9mZjAxZWJjZTAxMmE0M2RmOWZjMDlhYjRkMDk4ZDI2ZC5pY3MnLAogICAgICAgICd2NDI2MjMyJyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci85ZDE4ZTk5NGI2Mjc0N2M0YmZjM2UzNTY4ZWVjYjczMC5pY3MnLAogICAgICAgICd2ODM0NTAzJyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9lZDE4M2NiZTFhMjc0ZWJkYmQxMjJhMzgzY2I1ODk4NC5pY3MnLAogICAgICAgICd2NTk4NjcxJyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9iYTI4OWQ3MzkxNzM0YzEzYWQwMjg4OTVkZTRlNmRlOS5pY3MnLAogICAgICAgICd2NzI1Njk0JyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9iMDhmNzI2NDczZmM0YmJjYTc0OTdjYWI4YWQ3ZjMxMC5pY3MnLAogICAgICAgICcyOTM3NzcnID0+ICcnLAogICAgICAgICd2NTcyNzY0JyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci8wNzNmZDQ5NGU5YmY0Njc3OWQ5MGViYmQ2YzA2YjgyNy5pY3MnLAogICAgICAgICd2NDMwMDg3JyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9lYTIwMGU4ZmUxMWI0N2Q2YTY3ODQzOWVlYjNiZDM2MS5pY3MnLAogICAgICAgICd2NzQxODAxJyA9PiAnaHR0cDovL2FkbWluLnZyYm8uY29tL2ljYWxlbmRhci9iZTFkMGJkODY1YTQ0YWQ0YjAyZDgxNjkwZTU5ZjBkZi5pY3MnLAogICAgICAgICd2OTA2NTczJyA9PiAnJywKICAgICAgICAndjkxNjkxOScgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvYjVmOGJkY2E1NjgwNDNjYWJlNmUwYjA4YzVlYmQ3MGUuaWNzJywKICAgICAgICAndjYwNDc2NycgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNTVhNjJhMmFlMDZhNDQ3NjljYzAyNGEwYjc3ZGNkZGIuaWNzJywKICAgICAgICAndjU2MjQ0NCcgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNjU5ODBiMTY4M2JjNDM0MWFlOTA4YmU5N2RkNTI0OWEuaWNzJywKICAgICAgICAndjQ3NTE4MicgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvYjVlMmM3YjdmOWFhNDdlY2JkMmNhMzgwN2I4YWFiMzcuaWNzJywKICAgICAgICAndjc2ODI3NycgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNmNiMjRlZjYzMGVhNDA0ZThmODA0NjlkZDkzYzE1OTQuaWNzJywKICAgICAgICAndjQzMzUzNScgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNzFkYWZhZWJjMjk3NDgzN2IzYTE5MmVkZjkwYWY0ODIuaWNzJywKICAgICAgICAndjc0OTgwMycgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNjc2NDM3MDAxNGM2NDhhZjg0NzViNjE3ZDVhNDVmMmUuaWNzJywKICAgICAgICAndjgyNTkwNicgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNWRlZGY2MGUzYTQxNDY3NDljNTVjMDJlYWMwMjQ2NmUuaWNzJywKICAgICAgICAndjg2Mjc4NycgPT4gJ2h0dHA6Ly9hZG1pbi52cmJvLmNvbS9pY2FsZW5kYXIvNjdlNjRhODgxYjkzNDFkYjlkNTczYjJhYjlkYTQyNGUuaWNzJwogICAgKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>$averageNighly</text>
