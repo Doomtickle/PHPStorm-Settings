@@ -100,11 +100,11 @@
         <mark key="^" line="70" column="58" />
         <mark key="." line="70" column="58" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1480698905008">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="^" line="125" column="110" />
-        <mark key="." line="288" column="0" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" timestamp="1480702181184">
+        <mark key="[" line="94" column="93" />
+        <mark key="]" line="94" column="28" />
+        <mark key="^" line="94" column="28" />
+        <mark key="." line="94" column="28" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-blog.php" timestamp="1480609460544">
         <mark key="[" line="120" column="0" />
@@ -229,17 +229,17 @@
       <jump line="17" column="40" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/front-page.php" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPSIvL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9tb21lbnQuanMvMi4xNi4wL21vbWVudC5taW4uanMiPjwvc2NyaXB0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
+      <register name="a" type="4">
+        <text>$json['units'][0]['ratePeriods'][0]['rates']['nightlyWeekday']['amount']</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.0.0/ekko-lightbox.min.css</text>
+        <text>nightlyWeekday</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.0.0/ekko-lightbox.min.css</text>
+        <text>nightlyWeekday</text>
       </register>
       <register name="/" type="4">
         <text>shortcode</text>
