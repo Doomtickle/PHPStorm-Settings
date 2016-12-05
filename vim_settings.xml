@@ -177,6 +177,9 @@
         <mark key="]" line="55" column="61" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="/Volumes/Sites/coastlinevacationrentals.net/public_html/wp-content/plugins/WP-InstaSites-master/widgets.php" timestamp="1480958208967">
+        <mark key="'" line="1101" column="28" />
+      </file>
       <file name="/Volumes/Sites/alwfumf.org/public_html/wp-content/themes/foundation/functions.php" timestamp="1480638614614" />
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page.php" timestamp="1480605931419">
         <mark key="[" line="22" column="69" />
@@ -198,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1031" column="35" filename="/Volumes/Sites/pwillys.com/2016/wp-content/themes/pwillys/css/theme.css" />
-      <jump line="160" column="0" filename="/Volumes/Sites/pwillys.com/2016/wp-content/themes/pwillys/css/theme.css" />
       <jump line="393" column="0" filename="/Volumes/Sites/pwillys.com/2016/wp-content/themes/pwillys/css/theme.css" />
       <jump line="371" column="21" filename="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/init.php" />
       <jump line="452" column="24" filename="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/init.php" />
@@ -298,6 +299,8 @@
       <jump line="217" column="21" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/style.css" />
       <jump line="170" column="18" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="57" column="73" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" />
+      <jump line="85" column="20" filename="/Volumes/Sites/coastlinevacationrentals.net/public_html/wp-content/plugins/WP-InstaSites-master/widgets.php" />
+      <jump line="1101" column="28" filename="/Volumes/Sites/coastlinevacationrentals.net/public_html/wp-content/plugins/WP-InstaSites-master/widgets.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -313,7 +316,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>carousel</text>
+        <text>featured</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCIjcmVudGFsLXNlYXJjaC1hcnJpdmFsIikuZGF0ZXBpY2tlcigpOwogICAgICAgIHZhciBhZCA9IAo=</text>
@@ -347,15 +350,14 @@
       </register>
     </registers>
     <search>
-      <last-search>carousel</last-search>
+      <last-search>featured</last-search>
       <last-offset />
-      <last-pattern>carousel</last-pattern>
+      <last-pattern>featured</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>review-headline</entry>
         <entry>support</entry>
         <entry>seasonal</entry>
         <entry>san-</entry>
@@ -375,6 +377,7 @@
         <entry>slider</entry>
         <entry>site</entry>
         <entry>carousel</entry>
+        <entry>featured</entry>
       </history-search>
       <history-cmd />
       <history-expr />
