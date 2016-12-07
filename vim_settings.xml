@@ -328,7 +328,7 @@
         <text>305662872.82f8c29.2eec7963b7e242a59333eb1db73ebefa</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>font</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzMzMzsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxNXB4OyBsaW5lLWhlaWdodDoyMXB4O3BhZGRpbmc6MDsgbWFyZ2luOjIwcHggMCAwIDA7Ij5XZSBoYXZlIGxvYW5zIGZvciBhbnl0aGluZyB5b3UgbmVlZCB0aGlzIENocmlzdG1hcy48c3BhbiBzdHlsZT0iY29sb3I6IzkyYjgzOTsiPio8L3NwYW4+Cg==</text>
@@ -362,15 +362,14 @@
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>font</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seasonal</entry>
         <entry>san-</entry>
         <entry>bot</entry>
         <entry>footer</entry>
@@ -390,6 +389,7 @@
         <entry>carousel</entry>
         <entry>featured</entry>
         <entry>init</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd />
       <history-expr />
