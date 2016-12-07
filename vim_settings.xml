@@ -127,7 +127,12 @@
       <file name="/Volumes/Sites/presnellsrvresort.com/2016/wp-content/themes/resort/front-page.php" timestamp="1481147328971">
         <mark key="'" line="208" column="76" />
       </file>
-      <file name="/Volumes/Sites/presnellsrvresort.com/2016/wp-content/themes/resort/header.php" timestamp="1481147399502" />
+      <file name="/Volumes/Sites/presnellsrvresort.com/2016/wp-content/themes/resort/header.php" timestamp="1481148033599">
+        <mark key="[" line="46" column="142" />
+        <mark key="]" line="46" column="142" />
+        <mark key="." line="46" column="142" />
+        <mark key="^" line="46" column="111" />
+      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" timestamp="1481132417694">
         <mark key="'" line="14" column="34" />
         <mark key="[" line="122" column="0" />
@@ -323,13 +328,13 @@
         <text>dc56b434f66d482bbe613c2859e125bd</text>
       </register>
       <register name="&quot;" type="4">
-        <text>305662872.82f8c29.2eec7963b7e242a59333eb1db73ebefa</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>305662872.82f8c29.2eec7963b7e242a59333eb1db73ebefa</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
