@@ -122,6 +122,13 @@
         <mark key="]" line="331" column="89" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-admin/includes/template.php" timestamp="1480639300015" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" timestamp="1481128640257">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="143" column="37" />
+        <mark key="]" line="143" column="56" />
+        <mark key="^" line="143" column="56" />
+        <mark key="." line="143" column="56" />
+      </file>
       <file name="/Volumes/Sites/doorwaysnwfl.org/public_html/.htaccess" timestamp="1479138797180">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="6" column="0" />
@@ -216,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="0" filename="/Volumes/Sites/pwillys.com/2016/wp-content/themes/pwillys/css/theme.css" />
-      <jump line="371" column="21" filename="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/init.php" />
-      <jump line="452" column="24" filename="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/init.php" />
       <jump line="324" column="1" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/class.iCalReader.php" />
       <jump line="35" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
       <jump line="176" column="41" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
@@ -316,64 +320,66 @@
       <jump line="57" column="73" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" />
       <jump line="85" column="20" filename="/Volumes/Sites/coastlinevacationrentals.net/public_html/wp-content/plugins/WP-InstaSites-master/widgets.php" />
       <jump line="1101" column="28" filename="/Volumes/Sites/coastlinevacationrentals.net/public_html/wp-content/plugins/WP-InstaSites-master/widgets.php" />
+      <jump line="0" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" />
+      <jump line="3" column="1" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" />
+      <jump line="14" column="34" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text encoding="base64">QXBwbHkgb25saW5lIGZvciA8c3Ryb25nPlRoZSBBbnl0aGluZyBMb2FuPC9zdHJvbmc+LCAmIHdl4oCZbGwgY2FsbCB5b3UgYmFjayB3aXRoaW4gdGhlIGhvdXIhPHNwYW4gc3R5bGU9ImNvbG9yOiMwMDk3ZmY7Ij4qPC9zcGFuPjwvcD4=</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHJlZ2lzdGVyX3Bvc3RfdHlwZSggJ3Rlc3RpbW9uaWFscycsCiAgICAgICAgYXJyYXkoCiAgICAgICAgICAgICdsYWJlbHMnICAgICAgICAgICAgID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ25hbWUnIAkJICAgICAgICAgPT4gX3goICdSZXZpZXdzJywgJ3Bvc3QgdHlwZSBnZW5lcmFsIG5hbWUnLCAnY2J2JyApLAogICAgICAgICAgICAgICAgJ3Npbmd1bGFyX25hbWUnICAgICAgPT4gX3goICdSZXZpZXcnLCAncG9zdCB0eXBlIHNpbmd1bGFyIG5hbWUnLCAnY2J2JyApLAogICAgICAgICAgICAgICAgJ21lbnVfbmFtZScgICAgICAgICAgPT4gX3goICdSZXZpZXdzJywgJ2FkbWluIG1lbnUnLCAnY2J2JyApLAogICAgICAgICAgICAgICAgJ25hbWVfYWRtaW5fYmFyJyAgICAgPT4gX3goICdSZXZpZXdzJywgJ2FkZCBuZXcgb24gYWRtaW4gYmFyJywgJ2NidicgKSwKICAgICAgICAgICAgICAgICdhZGRfbmV3JyAgICAgICAgICAgID0+IF94KCAnQWRkIE5ldycsICdyZXZpZXcnLCAnY2J2JyApLAogICAgICAgICAgICAgICAgJ2FkZF9uZXdfaXRlbScgICAgICAgPT4gX18oICdBZGQgTmV3IFJldmlldycsICdjYnYnICksCiAgICAgICAgICAgICAgICAnbmV3X2l0ZW0nICAgICAgICAgICA9PiBfXyggJ05ldyBSZXZpZXcnLCAnY2J2JyApLAogICAgICAgICAgICAgICAgJ2VkaXRfaXRlbScgICAgICAgICAgPT4gX18oICdFZGl0IFJldmlldycsICdjYnYnICksCiAgICAgICAgICAgICAgICAndmlld19pdGVtJyAgICAgICAgICA9PiBfXyggJ1ZpZXcgUmV2aWV3cycsICdjYnYnICksCiAgICAgICAgICAgICAgICAnYWxsX2l0ZW1zJyAgICAgICAgICA9PiBfXyggJ0FsbCBSZXZpZXdzJywgJ2NidicgKSwKICAgICAgICAgICAgICAgICdzZWFyY2hfaXRlbXMnICAgICAgID0+IF9fKCAnU2VhcmNoIFJldmlld3MnLCAnY2J2JyApLAogICAgICAgICAgICAgICAgJ3BhcmVudF9pdGVtX2NvbG9uJyAgPT4gX18oICdQYXJlbnQgUmV2aWV3OicsICdjYnYnICksCiAgICAgICAgICAgICAgICAnbm90X2ZvdW5kJyAgICAgICAgICA9PiBfXyggJ05vIHJldmlld3MgZm91bmQuJywgJ2NidicgKSwKICAgICAgICAgICAgICAgICdub3RfZm91bmRfaW5fdHJhc2gnID0+IF9fKCAnTm8gcmV2aWV3cyBmb3VuZCBpbiBUcmFzaC4nLCAnY2J2JyApCiAgICAgICAgICAgICksCiAgICAgICAgICAgICdwdWJsaWMnICAgICAgICAgICAgID0+IHRydWUsCiAgICAgICAgICAgICdwdWJsaWNseV9xdWVyeWFibGUnID0+IHRydWUsCiAgICAgICAgICAgICdzaG93X3VpJyAgICAgICAgICAgID0+IHRydWUsCiAgICAgICAgICAgICdzaG93X2luX21lbnUnICAgICAgID0+IHRydWUsCiAgICAgICAgICAgICdxdWVyeV92YXInICAgICAgICAgID0+IHRydWUsCiAgICAgICAgICAgICdyZXdyaXRlJyAgICAgICAgICAgID0+IGFycmF5KAogICAgICAgICAgICAgICAgJ3NsdWcnIAkJCT0+ICdyZXZpZXdzJywgICAJCS8vc3RyaW5nIEN1c3RvbWl6ZSB0aGUgcGVybWFsaW5rIHN0cnVjdHVyZSBzbHVnLiBEZWZhdWx0cyB0byB0aGUgJHBvc3RfdHlwZSB2YWx1ZS4gU2hvdWxkIGJlIHRyYW5zbGF0YWJsZS4KICAgICAgICAgICAgICAgICd3aXRoX2Zyb250JyAJPT4gZmFsc2UsIAkJCQkvL2Jvb2wgU2hvdWxkIHRoZSBwZXJtYWxpbmsgc3RydWN0dXJlIGJlIHByZXBlbmRlZCB3aXRoIHRoZSBmcm9udCBiYXNlLiA8YnI+CiAgICAgICAgICAgICAgICAvLyhleGFtcGxlOiBpZiB5b3VyIHBlcm1hbGluayBzdHJ1Y3R1cmUgaXMgL2Jsb2cvLCB0aGVuIHlvdXIgbGlua3Mgd2lsbCBiZTogZmFsc2UtPiAvbmV3cy8sIHRydWUtPi9ibG9nL25ld3MvKS4gRGVmYXVsdHMgdG8gdHJ1ZQogICAgICAgICAgICAgICAgJ2ZlZWRzJyAJCT0+IHRydWUsIAkJCQkvL2Jvb2wgU2hvdWxkIGEgZmVlZCBwZXJtYWxpbmsgc3RydWN0dXJlIGJlIGJ1aWx0IGZvciB0aGlzIHBvc3QgdHlwZS4gRGVmYXVsdHMgdG8gaGFzX2FyY2hpdmUgdmFsdWUKICAgICAgICAgICAgICAgICdwYWdlcycgCQk9PiBmYWxzZQkJCQkvL2Jvb2wgU2hvdWxkIHRoZSBwZXJtYWxpbmsgc3RydWN0dXJlIHByb3ZpZGUgZm9yIHBhZ2luYXRpb24uIERlZmF1bHRzIHRvIHRydWUKICAgICAgICAgICAgKSwKICAgICAgICAgICAgJ21lbnVfaWNvbicJCQkgPT4gJ2Rhc2hpY29ucy1mb3JtYXQtcXVvdGUnLAogICAgICAgICAgICAnY2FwYWJpbGl0eV90eXBlJyAgICA9PiAncG9zdCcsCiAgICAgICAgICAgICdoYXNfYXJjaGl2ZScgICAgICAgID0+IGZhbHNlLAogICAgICAgICAgICAnaGllcmFyY2hpY2FsJyAgICAgICA9PiB0cnVlLAogICAgICAgICAgICAnbWVudV9wb3NpdGlvbicgICAgICA9PiBudWxsLAogICAgICAgICAgICAnc3VwcG9ydHMnICAgICAgICAgICA9PiBhcnJheSggJ3RpdGxlJywgJ2VkaXRvcicsICdyZXZpc2lvbnMnLCAnYXV0aG9yJyApCiAgICAgICAgKQogICAgKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>dashicons-format-quote</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>dashicons-format-quote</text>
       </register>
       <register name="/" type="4">
-        <text>featured</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzMzMzsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxNXB4OyBsaW5lLWhlaWdodDoyMXB4O3BhZGRpbmc6MDsgbWFyZ2luOjIwcHggMCAwIDA7Ij5XZSBoYXZlIGxvYW5zIGZvciBhbnl0aGluZyB5b3UgbmVlZCB0aGlzIENocmlzdG1hcy48c3BhbiBzdHlsZT0iY29sb3I6IzkyYjgzOTsiPio8L3NwYW4+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">QXBwbHkgb25saW5lIGZvciA8c3Ryb25nPlRoZSBBbnl0aGluZyBMb2FuPC9zdHJvbmc+LCAmIHdl4oCZbGwgY2FsbCB5b3UgYmFjayB3aXRoaW4gdGhlIGhvdXIhPHNwYW4gc3R5bGU9ImNvbG9yOiMwMDk3ZmY7Ij4qPC9zcGFuPjwvcD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSdzbHVnJyAJCQk9PiAncmV2aWV3cycsICAgCQkvL3N0cmluZyBDdXN0b21pemUgdGhlIHBlcm1hbGluayBzdHJ1Y3R1cmUgc2x1Zy4gRGVmYXVsdHMgdG8gdGhlICRwb3N0X3R5cGUgdmFsdWUuIFNob3VsZCBiZSB0cmFuc2xhdGFibGUuCgkJCQknd2l0aF9mcm9udCcgCT0+IGZhbHNlLCAJCQkJLy9ib29sIFNob3VsZCB0aGUgcGVybWFsaW5rIHN0cnVjdHVyZSBiZSBwcmVwZW5kZWQgd2l0aCB0aGUgZnJvbnQgYmFzZS4gPGJyPgoJCQkJLy8oZXhhbXBsZTogaWYgeW91ciBwZXJtYWxpbmsgc3RydWN0dXJlIGlzIC9ibG9nLywgdGhlbiB5b3VyIGxpbmtzIHdpbGwgYmU6IGZhbHNlLT4gL25ld3MvLCB0cnVlLT4vYmxvZy9uZXdzLykuIERlZmF1bHRzIHRvIHRydWUKCQkJCSdmZWVkcycgCQk9PiB0cnVlLCAJCQkJLy9ib29sIFNob3VsZCBhIGZlZWQgcGVybWFsaW5rIHN0cnVjdHVyZSBiZSBidWlsdCBmb3IgdGhpcyBwb3N0IHR5cGUuIERlZmF1bHRzIHRvIGhhc19hcmNoaXZlIHZhbHVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAk8cCBzdHlsZT0iY29sb3I6I2NhZTIyNTsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToyNHB4OyBsaW5lLWhlaWdodDozMnB4O3BhZGRpbmc6MDsgbWFyZ2luOjAgMCAyMHB4OyI+PHN0cm9uZz5ZT1UgZmlsbCBpbiB0aGUgYmxhbmsuPC9zdHJvbmc+PC9wPgo=</text>
+        <text encoding="base64">CQkJCSdwYXJlbnRfaXRlbV9jb2xvbicgID0+IF9fKCAnUGFyZW50IDonLCAnY2J2JyApLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGlmKCRzcHJpbmdXZWVrbHlSYXRlICE9ICdOL0EnKQogICAgICAgICAgICAgICAgIGFycmF5X3B1c2goJHJhdGVBcnJheSwgJHNwcmluZ1dlZWtseVJhdGUpOwogICAgICAgICAgICAgaWYoJHN1bW1lcldlZWtseVJhdGUgIT0nTi9BJykKICAgICAgICAgICAgICAgICBhcnJheV9wdXNoKCRyYXRlQXJyYXksICRzdW1tZXJXZWVrbHlSYXRlKTsKICAgICAgICAgICAgIGlmKCR3aW50ZXJOaWdodGx5UmF0ZSAhPSAnTi9BJykKICAgICAgICAgICAgICAgICBhcnJheV9wdXNoKCRyYXRlQXJyYXksICR3aW50ZXJXZWVrbHlSYXRlKTsKICAgICAgICAgICAgIGlmKCRmYWxsV2Vla2x5UmF0ZSA9ISAnTi9BJykKICAgICAgICAgICAgICAgICBhcnJheV9wdXNoKCRyYXRlQXJyYXkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">QXBwbHkgb25saW5lIGZvciA8c3Ryb25nPlRoZSBBbnl0aGluZyBMb2FuPC9zdHJvbmc+LCAmIHdl4oCZbGwgY2FsbCB5b3UgYmFjayB3aXRoaW4gdGhlIGhvdXIhPHNwYW4gc3R5bGU9ImNvbG9yOiMwMDk3ZmY7Ij4qPC9zcGFuPjwvcD4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ29vZ2xlLm1hcHMuZXZlbnQudHJpZ2dlcihtYXAsICJyZXNpemUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAk8cCBzdHlsZT0iY29sb3I6I2NhZTIyNTsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToyNHB4OyBsaW5lLWhlaWdodDozMnB4O3BhZGRpbmc6MDsgbWFyZ2luOjAgMCAyMHB4OyI+PHN0cm9uZz5ZT1UgZmlsbCBpbiB0aGUgYmxhbmsuPC9zdHJvbmc+PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnb29nbGUubWFwcy5ldmVudC50cmlnZ2VyKG1hcCwgInJlc2l6ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGlmKCRzcHJpbmdXZWVrbHlSYXRlICE9ICdOL0EnKQogICAgICAgICAgICAgICAgIGFycmF5X3B1c2goJHJhdGVBcnJheSwgJHNwcmluZ1dlZWtseVJhdGUpOwogICAgICAgICAgICAgaWYoJHN1bW1lcldlZWtseVJhdGUgIT0nTi9BJykKICAgICAgICAgICAgICAgICBhcnJheV9wdXNoKCRyYXRlQXJyYXksICRzdW1tZXJXZWVrbHlSYXRlKTsKICAgICAgICAgICAgIGlmKCR3aW50ZXJOaWdodGx5UmF0ZSAhPSAnTi9BJykKICAgICAgICAgICAgICAgICBhcnJheV9wdXNoKCRyYXRlQXJyYXksICR3aW50ZXJXZWVrbHlSYXRlKTsKICAgICAgICAgICAgIGlmKCRmYWxsV2Vla2x5UmF0ZSA9ISAnTi9BJykKICAgICAgICAgICAgICAgICBhcnJheV9wdXNoKCRyYXRlQXJyYXkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjYiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ29vZ2xlLm1hcHMuZXZlbnQudHJpZ2dlcihtYXAsICJyZXNpemUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgICQKICAgIHZhciBhcnJpdmFsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3JlbnRhbC1zZWFyY2gtYXJyaXZhbCcpLnZhbHVlQXNEYXRlID0gbmV3IERhdGUoKTsKICAgIGRvY3VtZW50LmdldAoKCjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnb29nbGUubWFwcy5ldmVudC50cmlnZ2VyKG1hcCwgInJlc2l6ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWQgPQogICAgICAgICAgICAkKCIjcmVudGFsLXNlYXJjaC1hcnJpdmFsIikuZGF0ZXBpY2tlcignZ2V0RGF0ZScpOwogICAgICAgIGFkLnRvU3RyaW5nKCk7CiAgICAgICAgY29uc29sZS5sb2coYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjYiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWQgPQo=</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgICQKICAgIHZhciBhcnJpdmFsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3JlbnRhbC1zZWFyY2gtYXJyaXZhbCcpLnZhbHVlQXNEYXRlID0gbmV3IERhdGUoKTsKICAgIGRvY3VtZW50LmdldAoKCjwvc2NyaXB0Pgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>featured</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>featured</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>support</entry>
         <entry>seasonal</entry>
         <entry>san-</entry>
         <entry>bot</entry>
@@ -393,6 +399,7 @@
         <entry>site</entry>
         <entry>carousel</entry>
         <entry>featured</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd />
       <history-expr />
