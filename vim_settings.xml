@@ -7,11 +7,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="31" column="26" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inc/template-tags.php" timestamp="1480607836434">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/init.php" timestamp="1478885666416">
         <mark key="'" line="452" column="24" />
         <mark key="[" line="555" column="25" />
@@ -113,11 +108,6 @@
         <mark key="." line="141" column="58" />
         <mark key="^" line="141" column="58" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-blog.php" timestamp="1480609460544">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" timestamp="1480713154083">
         <mark key="[" line="305" column="54" />
         <mark key="]" line="305" column="54" />
@@ -207,10 +197,11 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/themes/cool/css/theme.css" timestamp="1481208290221">
-        <mark key="[" line="466" column="23" />
-        <mark key="]" line="463" column="0" />
-        <mark key="." line="463" column="0" />
+      <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/themes/cool/css/theme.css" timestamp="1481208591755">
+        <mark key="[" line="462" column="20" />
+        <mark key="]" line="463" column="20" />
+        <mark key="." line="463" column="20" />
+        <mark key="^" line="463" column="20" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-properties.php" timestamp="1481151184878">
         <mark key="'" line="175" column="19" />
@@ -223,21 +214,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="104" column="21" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/single.php" timestamp="1480607330734">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1480717487461">
         <mark key="'" line="58" column="73" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="61" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page.php" timestamp="1480605931419">
-        <mark key="[" line="22" column="69" />
-        <mark key="]" line="22" column="69" />
-        <mark key="." line="22" column="69" />
       </file>
     </filemarks>
     <jumps>
@@ -347,7 +328,7 @@
         <text>dc56b434f66d482bbe613c2859e125bd</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CW1heC1oZWlnaHQ6MTU1cHg7Cg==</text>
+        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6MTU1cHg7CiAgICB3aWR0aDoxMDAlOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
@@ -362,31 +343,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzMzMzsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxNXB4OyBsaW5lLWhlaWdodDoyMXB4O3BhZGRpbmc6MDsgbWFyZ2luOjIwcHggMCAwIDA7Ij5XZSBoYXZlIGxvYW5zIGZvciBhbnl0aGluZyB5b3UgbmVlZCB0aGlzIENocmlzdG1hcy48c3BhbiBzdHlsZT0iY29sb3I6IzkyYjgzOTsiPio8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1heC1oZWlnaHQ6MTU1cHg7Cg==</text>
+        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6MTU1cHg7CiAgICB3aWR0aDoxMDAlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6IDE1NXB4OwogICAgd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">CW1heC1oZWlnaHQ6MTU1cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdvcmRlcmJ5JyA9PiAnbWVudV9vcmRlcicsCg==</text>
+        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6IDE1NXB4OwogICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdvcmRlcicgPT4gJ0FTQycsCg==</text>
+        <text encoding="base64">ICAgICdvcmRlcmJ5JyA9PiAnbWVudV9vcmRlcicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2ZlYXR1cmVkLWFydGljbGVzIC5pbWFnZS1jcm9wIGltZyB7Cglwb3NpdGlvbjogcmVsYXRpdmU7Cn0K</text>
+        <text encoding="base64">ICAgICdvcmRlcicgPT4gJ0FTQycsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">I2ZlYXR1cmVkLWFydGljbGVzIC5pbWFnZS1jcm9wIGltZyB7Cglwb3NpdGlvbjogcmVsYXRpdmU7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocAoKCiAgICAgICAgICAgICAgICAgICAgPz4K</text>
+        <text encoding="base64">I2ZlYXR1cmVkLWFydGljbGVzIC5pbWFnZS1jcm9wIGltZyB7Cglwb3NpdGlvbjogcmVsYXRpdmU7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzcCA9IHdwX3JlbW90ZV9nZXQoJ2h0dHBzOi8vYXBpLmluc3RhZ3JhbS5jb20vb2F1dGgvYXV0aG9yaXplLz9jbGllbnRfaWQ9ZGM1NmI0MzRmNjZkNDgyYmJlNjEzYzI4NTllMTI1YmQmcmVkaXJlY3RfdXJpPWh0dHA6Ly9jYnYua21hc3RhZ2UuY29tJnJlc3BvbnNlX3R5cGU9Y29kZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocAoKCiAgICAgICAgICAgICAgICAgICAgPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzcCA9IHdwX3JlbW90ZV9wb3N0KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzcCA9IHdwX3JlbW90ZV9nZXQoJ2h0dHBzOi8vYXBpLmluc3RhZ3JhbS5jb20vb2F1dGgvYXV0aG9yaXplLz9jbGllbnRfaWQ9ZGM1NmI0MzRmNjZkNDgyYmJlNjEzYzI4NTllMTI1YmQmcmVkaXJlY3RfdXJpPWh0dHA6Ly9jYnYua21hc3RhZ2UuY29tJnJlc3BvbnNlX3R5cGU9Y29kZScpCg==</text>
       </register>
     </registers>
     <search>
