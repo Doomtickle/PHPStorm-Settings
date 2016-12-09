@@ -17,11 +17,6 @@
       <file name="/a.dummy" timestamp="1481134547080">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Sites/alwfumf.org/public_html/wp-content/themes/foundation/style.css" timestamp="1480713138435">
-        <mark key="'" line="525" column="1" />
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="553" column="0" />
-      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-rental-search.php" timestamp="1481135646689">
         <mark key="[" line="147" column="78" />
         <mark key="]" line="78" column="6" />
@@ -77,11 +72,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Volumes/Sites/alwfumf.org/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" timestamp="1480639823298">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="89" />
       </file>
       <file name="/Volumes/Sites/presnellsrvresort.com/2016/wp-content/themes/resort/front-page.php" timestamp="1481147328971">
         <mark key="'" line="208" column="76" />
@@ -148,11 +138,6 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
-      <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/themes/cool/blog.php" timestamp="1480609322956">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="119" column="21" />
-      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-all-listings.php" timestamp="1480618293170">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="15" />
@@ -197,6 +182,12 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/themes/serenity/functions.php" timestamp="1481298704433">
+        <mark key="[" line="307" column="24" />
+        <mark key="]" line="307" column="24" />
+        <mark key="^" line="305" column="0" />
+        <mark key="." line="307" column="24" />
+      </file>
       <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/themes/cool/css/theme.css" timestamp="1481208591755">
         <mark key="[" line="462" column="20" />
         <mark key="]" line="463" column="20" />
@@ -208,11 +199,6 @@
         <mark key="[" line="3" column="27" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/themes/cool/testimonials.php" timestamp="1480608266217">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="104" column="21" />
       </file>
       <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/themes/serenity/header.php" timestamp="1481296316264">
         <mark key="[" line="45" column="11" />
@@ -333,14 +319,14 @@
       <register name="a" type="4">
         <text>dc56b434f66d482bbe613c2859e125bd</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6MTU1cHg7CiAgICB3aWR0aDoxMDAlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
