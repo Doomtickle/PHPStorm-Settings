@@ -36,7 +36,7 @@
         <mark key="." line="13" column="61" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-results.php" timestamp="1481314483251">
+      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-results.php" timestamp="1481315708618">
         <mark key="[" line="65" column="22" />
         <mark key="]" line="65" column="26" />
         <mark key="^" line="65" column="26" />
@@ -77,6 +77,11 @@
       </file>
       <file name="/Volumes/Sites/presnellsrvresort.com/2016/wp-content/themes/resort/front-page.php" timestamp="1481147328971">
         <mark key="'" line="208" column="76" />
+      </file>
+      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/map-search.php" timestamp="1481316775951">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/Volumes/Sites/doorwaysnwfl.org/public_html/.htaccess" timestamp="1479138797180">
         <mark key="[" line="5" column="29" />
@@ -137,19 +142,13 @@
         <mark key="^" line="85" column="160" />
       </file>
       <file name="/Volumes/Sites/alwfumf.org/public_html/wp-content/themes/foundation/functions.php" timestamp="1480638614614" />
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" timestamp="1481143089709">
-        <mark key="'" line="171" column="18" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="171" column="18" />
-        <mark key="." line="171" column="18" />
-        <mark key="^" line="171" column="18" />
-      </file>
       <file name="/Volumes/Sites/asuperiorac.com/new/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical.css" timestamp="1478882543634">
         <mark key="[" line="48" column="16" />
         <mark key="]" line="48" column="17" />
         <mark key="." line="48" column="17" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php" timestamp="1481315726246" />
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-all-listings.php" timestamp="1480618293170">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="15" />
@@ -157,15 +156,27 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="/Volumes/Sites/alwfumf.org/public_html/wp-content/themes/foundation/front-page.php" timestamp="1480638109480" />
+      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-listing.php" timestamp="1481316466783">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/plugins/lodgixcom-vacation-rental-listing-management-booking-plugin/lodgix_widget_featured_rentals.php" timestamp="1481303634984">
         <mark key="'" line="223" column="32" />
       </file>
       <file name="/Volumes/Sites/98realestategroup.com/wp-content/themes/98/page-properties.php" timestamp="1481314310987" />
+      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/includes/class.kmarafgc.php" timestamp="1481315878706" />
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/page-all-listings.php" timestamp="1480613838125">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="37" column="11" />
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
+      </file>
+      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/map-listing.php" timestamp="1481316595757">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Volumes/Sites/palmbayprep.org/public_html/wp-content/themes/palmbay/header.php" timestamp="1481312783269">
         <mark key="[" line="51" column="0" />
@@ -176,13 +187,6 @@
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
-      </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/front-page.php" timestamp="1481142517536">
-        <mark key="'" line="17" column="40" />
-        <mark key="[" line="183" column="49" />
-        <mark key="]" line="181" column="92" />
-        <mark key="." line="181" column="92" />
-        <mark key="^" line="181" column="92" />
       </file>
       <file name="/Volumes/Sites/tyndallenews.org/2016/email-templates/eoffer_mobimoney_110916.html" timestamp="1478791369450">
         <mark key="[" line="106" column="101" />
@@ -204,6 +208,12 @@
         <mark key="." line="46" column="142" />
         <mark key="^" line="46" column="111" />
       </file>
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" timestamp="1481132417694">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/themes/serenity/functions.php" timestamp="1481302998918">
         <mark key="'" line="309" column="36" />
         <mark key="[" line="169" column="45" />
@@ -216,12 +226,6 @@
         <mark key="]" line="463" column="20" />
         <mark key="." line="463" column="20" />
         <mark key="^" line="463" column="20" />
-      </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-properties.php" timestamp="1481151184878">
-        <mark key="'" line="175" column="19" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/Volumes/Sites/oscbr.com/public_html/template/includes/header.php" timestamp="1481312721230">
         <mark key="[" line="19" column="0" />
@@ -244,20 +248,11 @@
         <mark key="^" line="45" column="89" />
         <mark key="." line="45" column="89" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1480717487461">
-        <mark key="'" line="58" column="73" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="61" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/plugins/lodgixcom-vacation-rental-listing-management-booking-plugin/classes/lodgixpropertylist.php" timestamp="1481304214119">
         <mark key="[" line="153" column="40" />
       </file>
-      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-engine.php" timestamp="1481314514566">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
+      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-engine.php" timestamp="1481315427244">
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page.php" timestamp="1480605931419">
         <mark key="[" line="22" column="69" />
@@ -266,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
-      <jump line="62" column="4" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="107" column="4" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="28" column="55" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="84" column="10" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
@@ -366,52 +359,54 @@
       <jump line="229" column="32" filename="/Volumes/Sites/serenitybeachrentals.com/wp-content/plugins/lodgixcom-vacation-rental-listing-management-booking-plugin/lodgix_widget_featured_rentals.php" />
       <jump line="219" column="62" filename="/Volumes/Sites/serenitybeachrentals.com/wp-content/plugins/lodgixcom-vacation-rental-listing-management-booking-plugin/lodgix_widget_featured_rentals.php" />
       <jump line="223" column="32" filename="/Volumes/Sites/serenitybeachrentals.com/wp-content/plugins/lodgixcom-vacation-rental-listing-management-booking-plugin/lodgix_widget_featured_rentals.php" />
+      <jump line="11" column="0" filename="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-listing.php" />
+      <jump line="0" column="0" filename="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-listing.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">PD9waHAgLy9taW5pLWxpc3RpbmcgdGVtcGxhdGUKCiRwaG90b3MgPSAkbWxzZGItPmdldE1lZGlhVHlwZSgkY3VycmVudGVudHJ5WydNTFNfQUNDVCddLCdQaG90bycpOwovL3ByaW50X3IoJHBob3Rvcyk7CiRtYWlucGhvdG8gPSAkcGhvdG9zWzBdOwokYmF0aHMgPSAkY3VycmVudGVudHJ5WydCQVRIU19GVUxMJ10gKyAoJGN1cnJlbnRlbnRyeVsnQkFUSFNfSEFMRiddIC8gMiApOwokYmVkcyA9ICRjdXJyZW50ZW50cnlbJ0JFRFJPT01TJ107CiRhY3JlYWdlID0gJGN1cnJlbnRlbnRyeVsnQUNSRUFHRSddOwokc3FmdCA9ICRjdXJyZW50ZW50cnlbJ1RPVF9IRUFUX1NRRlQnXTsKaWYoJG1haW5waG90b1snRklMRV9OQU1FJ10gPT0gJycpewoJJG1haW5waG90byA9IGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkuJy9pbWcvbm9waG90by5qcGcnOyAKfWVsc2V7Ci8vICAgICRpbWdoZWFkZXJzID0gZ2V0X2hlYWRlcnMoJ2h0dHA6Ly9yYWZnYy5uZXQvUkFGU0dSZXBvcnRzL21lZGlhLycuJG1haW5waG90b1snRklMRV9OQU1FJ10sIDEpOwovLyAgICBpZiAoJGltZ2hlYWRlcnNbMF0gPT0gJ0hUVFAvMS4xIDIwMCBPSycpIHsKLy8gICAgICAgICRtYWlucGhvdG8gPSAnaHR0cDovL3JhZmdjLm5ldC9SQUZTR1JlcG9ydHMvbWVkaWEvJy4kbWFpbnBob3RvWydGSUxFX05BTUUnXTsKLy8gICAgfWVsc2V7Ci8vICAgICAgICAkbWFpbnBob3RvID0gZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKS4nL2ltZy9ub3Bob3RvLmpwZyc7Ci8vICAgIH0KCQp9CgokbWxzRmF2ID0gbmV3IG1sc0xlYWRzKCk7CiRjdXJyZW50X3VzZXIgPSB3cF9nZXRfY3VycmVudF91c2VyKCk7CiRpc0ZhdiA9ICRtbHNGYXYtPmNoZWNrRmF2b3JpdGVzKCAkY3VycmVudGVudHJ5WydNTFNfQUNDVCddICk7CiAgICAKPz4KCjxkaXYgY2xhc3M9ImZlYXQtcHJvcCBjb2wtbWQtNiBjb2wteGwtMyB0ZXh0LWNlbnRlciI+Cgk8ZGl2IGNsYXNzPSJmZWF0LXByb3AtY29udGFpbmVyIj4KICAgICAgICA8P3BocCBpZigkaXNGYXYpeyA/PgogICAgICAgIDxhIGhyZWY9Ij9kZWZhdj08P3BocCBlY2hvICRjdXJyZW50ZW50cnlbJ01MU19BQ0NUJ107ID8+IiBjbGFzcz0iZmF2b3JpdGUgYWN0aXZlIiA+CiAgICAgICAgPD9waHAgfWVsc2V7ID8+CiAgICAgICAgPGEgaHJlZj0iP2Zhdj08P3BocCBlY2hvICRjdXJyZW50ZW50cnlbJ01MU19BQ0NUJ107ID8+IiBjbGFzcz0iZmF2b3JpdGUiID4KICAgICAgICA8P3BocCB9ID8+CiAgICAgICAgICAgICA8aW1nIHNyYz0iPD9waHAgZWNobyBnZXRTdmcoJ3N0YXInKTsgPz4iIGFsdD0ic2F2ZSB0byBmYXZvcml0ZXMiID4KICAgICAgICA8L2E+CgkJPGEgY2xhc3M9Imxpc3RpbmctbGluayIgaHJlZj0iL2xpc3RpbmcvP21scz08P3BocCBlY2hvICRjdXJyZW50ZW50cnlbJ01MU19BQ0NUJ107ID8+Ij48L2E+CgkJPGRpdiBjbGFzcz0iZW1iZWQtcmVzcG9uc2l2ZSBlbWJlZC1yZXNwb25zaXZlLTE2Ynk5Ij4KCQkJPGRpdiBjbGFzcz0iZmVhdC1wcm9wLXBob3RvIj4KICAgICAgICAgICAgICAgIDw/cGhwIGlmKCRjdXJyZW50ZW50cnlbJ1NUQVRVUyddID09ICdTb2xkJyl7ID8+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InN0YXR1cy1mbGFnIj5Tb2xkIG9uIDw/cGhwIGVjaG8gZGF0ZSgnTSBqLCBZJyxzdHJ0b3RpbWUoJGN1cnJlbnRlbnRyeVsnU09MRF9EQVRFJ10pKTsgPz4gZm9yICQ8P3BocCBlY2hvIG51bWJlcl9mb3JtYXQoJGN1cnJlbnRlbnRyeVsnU09MRF9QUklDRSddKTsgPz48L3NwYW4+CiAgICAgICAgICAgICAgICA8P3BocCB9ID8+CiAgICAgICAgICAgICAgICA8P3BocCBpZigkY3VycmVudGVudHJ5WydTVEFUVVMnXSA9PSAnUGVuZGluZycpeyA/PgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzdGF0dXMtZmxhZyI+VW5kZXIgQ29udHJhY3Q8L3NwYW4+CiAgICAgICAgICAgICAgICA8P3BocCB9ID8+CiAgICAgICAgICAgICAgICA8P3BocCBpZigkY3VycmVudGVudHJ5WydTVEFUVVMnXSA9PSAnQ29udGluZ2VudCcpeyA/PgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzdGF0dXMtZmxhZyI+U2FsZSBDb250aW5nZW50PC9zcGFuPgogICAgICAgICAgICAgICAgPD9waHAgfSA/PgoJCQkJPGltZyBkYXRhLW9yaWdpbmFsPSI8P3BocCBlY2hvICRtYWlucGhvdG87ID8+IiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgbGF6eSIgYWx0PSJNTFMgUHJvcGVydHkgPD9waHAgZWNobyAkY3VycmVudGVudHJ5WydNTFNfQUNDVCddOyA/PiIgLz4KCQkJPC9kaXY+CgkJPC9kaXY+CgkJPGRpdiBjbGFzcz0iZmVhdC1wcm9wLWluZm8iID4KCgkJCTxkaXYgY2xhc3M9ImZlYXQtcHJvcC1zZWN0aW9uIiA+CgkJCQk8c3BhbiBjbGFzcz0iYWRkcjEiPjw/cGhwIGVjaG8gJGN1cnJlbnRlbnRyeVsnU1RSRUVUX05VTSddLicgJy4kY3VycmVudGVudHJ5WydTVFJFRVRfTkFNRSddOyA/Pjwvc3Bhbj4KCQkJCTw/cGhwIGlmKCRjdXJyZW50ZW50cnlbJ1VOSVRfTlVNJ10gIT0gJycpeyA/PjxzcGFuIGNsYXNzPSJ1bml0IiA+PD9waHAgZWNobyAkY3VycmVudGVudHJ5WydVTklUX05VTSddOyA/Pjwvc3Bhbj48P3BocCB9ID8+CgkJCQk8YnI+PHNwYW4gY2xhc3M9ImNpdHkiPjw/cGhwIGVjaG8gJGN1cnJlbnRlbnRyeVsnQ0lUWSddOyA/Pjwvc3Bhbj4sIDxzcGFuIGNsYXNzPSJzdGF0ZSI+PD9waHAgZWNobyAkY3VycmVudGVudHJ5WydTVEFURSddOyA/Pjwvc3Bhbj4KCQkJPC9kaXY+CgoJCQk8ZGl2IGNsYXNzPSJmZWF0LXByb3Atc2VjdGlvbiBwcmljZSIgPgoJCQkJPHA+PHNwYW4gY2xhc3M9InByaWNlIj4kPD9waHAgZWNobyBudW1iZXJfZm9ybWF0KCRjdXJyZW50ZW50cnlbJ0xJU1RfUFJJQ0UnXSk7ID8+PC9zcGFuPjwvcD4KCQkJPC9kaXY+CgoJCQk8ZGl2IGNsYXNzPSJmZWF0LXByb3Atc2VjdGlvbiIgPgoJCQkJPGRpdiBjbGFzcz0icm93Ij4KCQkJCTw/cGhwIGlmKCRjdXJyZW50ZW50cnlbJ0NMQVNTJ109PSdSRVMnKXsgLy9SRVNJREVOVElBTCBMSVNUSU5HUyA/PgoJCQkJCTxkaXYgY2xhc3M9ImNvbC14cy0zIHRleHQteHMtY2VudGVyIiA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uIj48aW1nIHNyYz0iPD9waHAgZWNobyBnZXRTdmcoJ2JlZHMnKTsgPz4iIGFsdD0iYmVkcm9vbXMiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBsYXp5IiA+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iYmF0aHMtbnVtIGljb24tZGF0YSI+PD9waHAgZWNobyAkYmVkczsgPz48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uLWxhYmVsIj5CRURTPC9zcGFuPgoJCQkJCTwvZGl2PgoJCQkJCTxkaXYgY2xhc3M9ImNvbC14cy0zIHRleHQteHMtY2VudGVyIiA+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uIj48aW1nIHNyYz0iPD9waHAgZWNobyBnZXRTdmcoJ2JhdGhzJyk7ID8+IiBhbHQ9ImJhdGhyb29tcyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGxhenkiID48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJiYXRocy1udW0gaWNvbi1kYXRhIj48P3BocCBlY2hvICRiYXRoczsgPz48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uLWxhYmVsIj5CQVRIUzwvc3Bhbj4KCQkJCQk8L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJjb2wteHMtMyB0ZXh0LXhzLWNlbnRlciIgPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdzcWZ0Jyk7ID8+IiBhbHQ9InNxZnQiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBsYXp5IiA+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iYmF0aHMtbnVtIGljb24tZGF0YSI+PD9waHAgZWNobyBudW1iZXJfZm9ybWF0KCRzcWZ0KTsgPz48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uLWxhYmVsIj5TUUZUPC9zcGFuPgoJCQkJCTwvZGl2PgoJCQkJCTw/cGhwIGlmKCRjdXJyZW50ZW50cnlbJ1BST1BfVFlQRSddPT0nQ29uZG9taW5pdW1zJyB8fCBzdHJwb3MoJGN1cnJlbnRlbnRyeVsnUFJPUF9UWVBFJ10sICdBU0YnKSAhPT0gZmFsc2UgKXsgLy9DT05ETyBPUiBNVUxUSSA/PgoJCQkJCTxkaXYgY2xhc3M9ImNvbC14cy0zIHRleHQteHMtY2VudGVyIiA+CgkJCQkJCTwhLS08c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdwYXJraW5nJyk7ID8+IiBhbHQ9InBhcmtpbmcgc3BhY2VzIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgbGF6eSIgPjwvc3Bhbj4tLT4KCQkJCQkJPHNwYW4gY2xhc3M9ImJhdGhzLW51bSBpY29uLWRhdGEiPjw/cGhwIGVjaG8gJGN1cnJlbnRlbnRyeVsnUEFSS0lOR19TUEFDRVMnXSA/Pjwvc3Bhbj4KCQkJCQkJPHNwYW4gY2xhc3M9Imljb24tbGFiZWwiPlBBUktJTkc8L3NwYW4+CgkJCQkJPC9kaXY+CgkJCQkJPD9waHAgfWVsc2V7IC8vSE9VU0UgPz4KCQkJCQk8ZGl2IGNsYXNzPSJjb2wteHMtMyB0ZXh0LXhzLWNlbnRlciIgPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdhY3JlcycpOyA/PiIgYWx0PSJhY3JlcyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGxhenkiID48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJiYXRocy1udW0gaWNvbi1kYXRhIj48P3BocCBlY2hvICRhY3JlYWdlOyA/Pjwvc3Bhbj4KCQkJCQkJPHNwYW4gY2xhc3M9Imljb24tbGFiZWwiPkFDUkVTPC9zcGFuPgoJCQkJCTwvZGl2PgkKCQkJCQk8P3BocCB9ID8+CgkJCQk8P3BocCB9IGVsc2VpZigkY3VycmVudGVudHJ5WydDTEFTUyddPT0nTE5EJyl7IC8vTE9UUyAmIExBTkQgPz4KCQkJCQk8ZGl2IGNsYXNzPSJjb2wteHMtNiB0ZXh0LXhzLWNlbnRlciIgPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdsb3RzaXplJyk7ID8+IiBhbHQ9ImxvdCBzaXplIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgbGF6eSIgPjwvc3Bhbj4KCQkJCQkJPHNwYW4gY2xhc3M9ImxvdC1kaW0tbnVtIGljb24tZGF0YSI+PD9waHAgZWNobyBzdHJfcmVwbGFjZSgnICcsICcnLCAkY3VycmVudGVudHJ5WydMT1RfRElNRU5TSU9OUyddKTsgPz48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uLWxhYmVsIj5MT1QgU0laRTwvc3Bhbj4KCQkJCQk8L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJjb2wteHMtNiB0ZXh0LXhzLWNlbnRlciIgPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdhY3JlcycpOyA/PiIgYWx0PSJhY3JlcyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGxhenkiID48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIAoJCQkJCQk8c3BhbiBjbGFzcz0iYWNyZXMtbnVtIGljb24tZGF0YSI+PD9waHAgZWNobyAkYWNyZWFnZTsgPz48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uLWxhYmVsIj5BQ1JFUzwvc3Bhbj4KCQkJCQk8L2Rpdj4KCQkJCTw/cGhwIH0gZWxzZSB7IC8vQ09NTUVSQ0lBTCBMSVNUSU5HUyA/PgoJCQkJCTw/cGhwIGlmKCRiZWRzID4gMCB8fCAkYmF0aHMgPiAwKXsgLy9DSEVDSyBGT1IgQlVJTERJTkcgPz4KCQkJCQk8ZGl2IGNsYXNzPSJjb2wteHMtMyIgPgoJCQkJCQk8c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdyb29tcycpOyA/PiIgYWx0PSJyb29tcyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGxhenkiID48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJiZWRzLW51bSBpY29uLWRhdGEiPjw/cGhwIGVjaG8gJGJlZHM7ID8+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iaWNvbi1sYWJlbCI+Uk9PTVM8L3NwYW4+CgkJCQkJPC9kaXY+CgkJCQkJPGRpdiBjbGFzcz0iY29sLXhzLTMgdGV4dC14cy1jZW50ZXIiID4KCQkJCQkJPHNwYW4gY2xhc3M9Imljb24iPjxpbWcgc3JjPSI8P3BocCBlY2hvIGdldFN2ZygnYmF0aHMnKTsgPz4iIGFsdD0iYmF0aHJvb21zIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgbGF6eSIgPjwvc3Bhbj4KCQkJCQkJPHNwYW4gY2xhc3M9ImJhdGhzLW51bSBpY29uLWRhdGEiPjw/cGhwIGVjaG8gJGJhdGhzOyA/Pjwvc3Bhbj4KCQkJCQkJPHNwYW4gY2xhc3M9Imljb24tbGFiZWwiPkJBVEhTPC9zcGFuPgoJCQkJCTwvZGl2PgoJCQkJCTxkaXYgY2xhc3M9ImNvbC14cy0zIHRleHQteHMtY2VudGVyIiA+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uIj48aW1nIHNyYz0iPD9waHAgZWNobyBnZXRTdmcoJ3NxZnQnKTsgPz4iIGFsdD0ic3FmdCIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGxhenkiID48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJzcWZ0LW51bSBpY29uLWRhdGEiPjw/cGhwIGVjaG8gbnVtYmVyX2Zvcm1hdCgkc3FmdCk7ID8+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iaWNvbi1sYWJlbCI+U1FGVDwvc3Bhbj4KCQkJCQk8L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJjb2wteHMtMyB0ZXh0LXhzLWNlbnRlciIgPgoJCQkJCQk8c3BhbiBjbGFzcz0iaWNvbiI+PGltZyBzcmM9Ijw/cGhwIGVjaG8gZ2V0U3ZnKCdsb3RzaXplJyk7ID8+IiBhbHQ9ImxvdCBzaXplIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgbGF6eSIgPjwvc3Bhbj4KCQkJCQkJPHNwYW4gY2xhc3M9ImxvdC1kaW0tbnVtIGljb24tZGF0YSI+PD9waHAgZWNobyAkY3VycmVudGVudHJ5WydMT1RfRElNRU5TSU9OUyddID8+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iaWNvbi1sYWJlbCI+TE9UIFNJWkU8L3NwYW4+CgkJCQkJPC9kaXY+CgkJCQkJPD9waHAgfWVsc2V7IC8vSlVTVCBMQU5EID8+CgkJCQkJPGRpdiBjbGFzcz0iY29sLXhzLTYgdGV4dC14cy1jZW50ZXIiID4KCQkJCQkJPHNwYW4gY2xhc3M9Imljb24iPjxpbWcgc3JjPSI8P3BocCBlY2hvIGdldFN2ZygnbG90c2l6ZScpOyA/PiIgYWx0PSJsb3Qgc2l6ZSIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGxhenkiID48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJsb3QtZGltLW51bSBpY29uLWRhdGEiPjw/cGhwIGVjaG8gc3RyX3JlcGxhY2UoJyAnLCAnJywgJGN1cnJlbnRlbnRyeVsnTE9UX0RJTUVOU0lPTlMnXSk7ID8+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iaWNvbi1sYWJlbCI+TE9UIFNJWkU8L3NwYW4+CgkJCQkJPC9kaXY+CgkJCQkJPGRpdiBjbGFzcz0iY29sLXhzLTYgdGV4dC14cy1jZW50ZXIiID4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24iPjxpbWcgc3JjPSI8P3BocCBlY2hvIGdldFN2ZygnYWNyZXMnKTsgPz4iIGFsdD0iYWNyZXMiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBsYXp5IiA+PC9zcGFuPgoJCQkJCQk8c3BhbiBjbGFzcz0iYWNyZXMtbnVtIGljb24tZGF0YSI+PD9waHAgZWNobyAkYWNyZWFnZTsgPz48L3NwYW4+CgkJCQkJCTxzcGFuIGNsYXNzPSJpY29uLWxhYmVsIj5BQ1JFUzwvc3Bhbj4KCQkJCQk8L2Rpdj4KCQkJCQk8P3BocCB9ID8+CgkJCQk8P3BocCB9ID8+CgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoKCQkJPGRpdiBjbGFzcz0iZmVhdC1wcm9wLXNlY3Rpb24gdGV4dC14cy1jZW50ZXIiID4KCQkJCTxzcGFuIGNsYXNzPSJtbHNudW0iPk1MUyMgPD9waHAgZWNobyAkY3VycmVudGVudHJ5WydNTFNfQUNDVCddOyA/PiAvIElEIyA8P3BocCBlY2hvICRjdXJyZW50ZW50cnlbJ2lkJ107ID8+PC9zcGFuPgoJCQk8L2Rpdj4KCgkJPC9kaXY+Cgk8L2Rpdj4KPC9kaXY+Cjw/cGhwCgo/Pgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYl9lbmRfY2xlYW4oKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>ldgxShadow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzMzMzsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxNXB4OyBsaW5lLWhlaWdodDoyMXB4O3BhZGRpbmc6MDsgbWFyZ2luOjIwcHggMCAwIDA7Ij5XZSBoYXZlIGxvYW5zIGZvciBhbnl0aGluZyB5b3UgbmVlZCB0aGlzIENocmlzdG1hcy48c3BhbiBzdHlsZT0iY29sb3I6IzkyYjgzOTsiPio8L3NwYW4+Cg==</text>
+        <text encoding="base64">CSRtYWlucGhvdG8gPSBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpLicvaW1nL25vcGhvdG8uanBnJzsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYl9lbmRfY2xlYW4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYl9zdGFydCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH1lbHNlewogICAgICAgICRtYWlucGhvdG8gPSBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpLicvaW1nL25vcGhvdG8uanBnJzsgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICRpbWdoZWFkZXJzID0gZ2V0X2hlYWRlcnMoJ2h0dHA6Ly9yYWZnYy5uZXQvUkFGU0dSZXBvcnRzL21lZGlhLycuJG1haW5waG90b1snRklMRV9OQU1FJ10sIDEpOwogICAgaWYgKCRpbWdoZWFkZXJzWzBdID09ICdIVFRQLzEuMSAyMDAgT0snKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnR1cmJvbGlua3MtcHJvZ3Jlc3MtYmFyIHsKICAgIHZpc2liaWxpdHk6IGhpZGRlbjsKfQo=</text>
+        <text encoding="base64">Ly8gICAgfWVsc2V7Ci8vICAgICAgICAkbWFpbnBob3RvID0gZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKS4nL2ltZy9ub3Bob3RvLmpwZyc7Ci8vICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Ly8gICAgJGltZ2hlYWRlcnMgPSBnZXRfaGVhZGVycygnaHR0cDovL3JhZmdjLm5ldC9SQUZTR1JlcG9ydHMvbWVkaWEvJy4kbWFpbnBob3RvWydGSUxFX05BTUUnXSwgMSk7Ci8vICAgIGlmICgkaW1naGVhZGVyc1swXSA9PSAnSFRUUC8xLjEgMjAwIE9LJykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSQod2luZG93KS5sb2FkKGZ1bmN0aW9uKCkgewoJCSQoJ2JvZHknKS5hZGRFdmVudExpc3RlbmVyKCdibHVyJywgaGFuZGxlciwgeyBvbmNlOiB0cnVlIH0pOwoJfSk7Cg==</text>
+        <text encoding="base64">CSRtYWlucGhvdG8gPSAnOyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVjaG8gJ1Bob3RvIGhlcmUnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS5hZGRFdmVudExpc3RlbmVyKCdibHVyJywgaGFuZGxlciwgeyBvbmNlOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">CQkJfWVsc2V7Cg==</text>
       </register>
     </registers>
     <search>
