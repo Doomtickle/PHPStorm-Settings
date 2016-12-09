@@ -196,12 +196,6 @@
         <mark key="." line="46" column="142" />
         <mark key="^" line="46" column="111" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/functions.php" timestamp="1481132417694">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
       <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/themes/serenity/functions.php" timestamp="1481302998918">
         <mark key="'" line="309" column="36" />
         <mark key="[" line="169" column="45" />
@@ -220,6 +214,16 @@
         <mark key="[" line="3" column="27" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Volumes/Sites/oscbr.com/public_html/template/includes/header.php" timestamp="1481311326648">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="101" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Volumes/Sites/oscbr.com/public_html/template/header.php" timestamp="1481311269048">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/single.php" timestamp="1480607330734">
         <mark key="[" line="26" column="0" />
@@ -351,10 +355,10 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">JCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24oKSB7CgkvL2NvbnNvbGUubG9nKCQoJ2JvZHknKS5oZWlnaHQoKSk7CgkvL2NvbnNvbGUubG9nKCQod2luZG93KS5oZWlnaHQoKSk7CglpZiAoJCgnYm9keScpLmhlaWdodCgpIDwgJCh3aW5kb3cpLmhlaWdodCgpKSB7CgkJJCgnI2JvdCcpLmFkZENsYXNzKCJzdGlja3kiKTsKCQkkKCcjYm90LWJvdCcpLmFkZENsYXNzKCJzdGlja3kiKTsKCX1lbHNlewoJCSQoJyNib3QnKS5yZW1vdmVDbGFzcygic3RpY2t5Iik7CgkJJCgnI2JvdC1ib3QnKS5yZW1vdmVDbGFzcygic3RpY2t5Iik7Cgl9Cn0pOwo=</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
@@ -369,31 +373,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzMzMzsgZm9udC1mYW1pbHk6VGFob21hLCBHZW5ldmEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxNXB4OyBsaW5lLWhlaWdodDoyMXB4O3BhZGRpbmc6MDsgbWFyZ2luOjIwcHggMCAwIDA7Ij5XZSBoYXZlIGxvYW5zIGZvciBhbnl0aGluZyB5b3UgbmVlZCB0aGlzIENocmlzdG1hcy48c3BhbiBzdHlsZT0iY29sb3I6IzkyYjgzOTsiPio8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnR1cmJvbGlua3MtcHJvZ3Jlc3MtYmFyIHsKICAgIHZpc2liaWxpdHk6IGhpZGRlbjsKfQo=</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSQod2luZG93KS5sb2FkKGZ1bmN0aW9uKCkgewoJCSQoJ2JvZHknKS5hZGRFdmVudExpc3RlbmVyKCdibHVyJywgaGFuZGxlciwgeyBvbmNlOiB0cnVlIH0pOwoJfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LnR1cmJvbGlua3MtcHJvZ3Jlc3MtYmFyIHsKICAgIHZpc2liaWxpdHk6IGhpZGRlbjsKfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CS5hZGRFdmVudExpc3RlbmVyKCdibHVyJywgaGFuZGxlciwgeyBvbmNlOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">PHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL2NvbnNvbGUubG9nKCQoJ2JvZHknKS5oZWlnaHQoKSk7CgkJLy9jb25zb2xlLmxvZygkKHdpbmRvdykuaGVpZ2h0KCkpOwoJCWlmICgkKCdib2R5JykuaGVpZ2h0KCkgPCAkKHdpbmRvdykuaGVpZ2h0KCkpIHsKCQkJJCgnI2JvdCcpLmFkZENsYXNzKCJzdGlja3kiKTsKCQkJJCgnI2JvdC1ib3QnKS5hZGRDbGFzcygic3RpY2t5Iik7CgkJfWVsc2V7CgkJCSQoJyNib3QnKS5yZW1vdmVDbGFzcygic3RpY2t5Iik7CgkJCSQoJyNib3QtYm90JykucmVtb3ZlQ2xhc3MoInN0aWNreSIpOwoJCX0K</text>
+        <text encoding="base64">CSQod2luZG93KS5sb2FkKGZ1bmN0aW9uKCkgewoJCSQoJ2JvZHknKS5hZGRFdmVudExpc3RlbmVyKCdibHVyJywgaGFuZGxlciwgeyBvbmNlOiB0cnVlIH0pOwoJfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6MTU1cHg7CiAgICB3aWR0aDoxMDAlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1heC1oZWlnaHQ6MTU1cHg7Cg==</text>
+        <text encoding="base64">CS5hZGRFdmVudExpc3RlbmVyKCdibHVyJywgaGFuZGxlciwgeyBvbmNlOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1heC1oZWlnaHQ6IDE1NXB4OwogICAgd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">CQkvL2NvbnNvbGUubG9nKCQoJ2JvZHknKS5oZWlnaHQoKSk7CgkJLy9jb25zb2xlLmxvZygkKHdpbmRvdykuaGVpZ2h0KCkpOwoJCWlmICgkKCdib2R5JykuaGVpZ2h0KCkgPCAkKHdpbmRvdykuaGVpZ2h0KCkpIHsKCQkJJCgnI2JvdCcpLmFkZENsYXNzKCJzdGlja3kiKTsKCQkJJCgnI2JvdC1ib3QnKS5hZGRDbGFzcygic3RpY2t5Iik7CgkJfWVsc2V7CgkJCSQoJyNib3QnKS5yZW1vdmVDbGFzcygic3RpY2t5Iik7CgkJCSQoJyNib3QtYm90JykucmVtb3ZlQ2xhc3MoInN0aWNreSIpOwoJCX0K</text>
       </register>
     </registers>
     <search>
