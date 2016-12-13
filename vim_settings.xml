@@ -257,9 +257,9 @@
         <mark key="^" line="45" column="89" />
         <mark key="." line="45" column="89" />
       </file>
-      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1481645482629">
-        <mark key="'" line="221" column="62" />
-        <mark key="[" line="174" column="10" />
+      <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" timestamp="1481649648935">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="289" column="9" />
         <mark key="]" line="175" column="5" />
         <mark key="^" line="175" column="5" />
         <mark key="." line="175" column="5" />
@@ -277,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/page-all-listings.php" />
       <jump line="109" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/page-all-listings.php" />
       <jump line="170" column="8" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
       <jump line="123" column="19" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-properties.php" />
@@ -377,6 +376,7 @@
       <jump line="11" column="18" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="13" column="1" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="68" column="4" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
+      <jump line="30" column="9" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
