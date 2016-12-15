@@ -47,10 +47,10 @@
         <mark key="." line="26" column="89" />
         <mark key="^" line="26" column="89" />
       </file>
-      <file name="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/header.php" timestamp="1481563857708">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/header.php" timestamp="1481825788538">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/Volumes/Sites/uretekusa.com/stage/wp-content/themes/uretekusa/header.php" timestamp="1481822035217">
         <mark key="[" line="55" column="0" />
@@ -172,6 +172,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/js/scripts.js" timestamp="1481825762386">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/page-all-listings.php" timestamp="1480613838125">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="37" column="11" />
@@ -192,6 +197,11 @@
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
+      </file>
+      <file name="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/footer.php" timestamp="1481823482983">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="77" column="7" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/Volumes/Sites/tyndallenews.org/2016/email-templates/eoffer_mobimoney_110916.html" timestamp="1478791369450">
         <mark key="[" line="106" column="101" />
@@ -218,6 +228,13 @@
         <mark key="]" line="184" column="42" />
         <mark key="." line="184" column="42" />
         <mark key="^" line="184" column="42" />
+      </file>
+      <file name="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/sidebar.php" timestamp="1481826160617">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="/Volumes/Sites/serenitybeachrentals.com/wp-content/themes/serenity/functions.php" timestamp="1481302998918">
         <mark key="'" line="309" column="36" />
@@ -276,8 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="8" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
-      <jump line="123" column="19" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-properties.php" />
       <jump line="18" column="50" filename="/Volumes/Sites/alwfumf.org/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
       <jump line="0" column="0" filename="/Volumes/Sites/alwfumf.org/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
       <jump line="217" column="64" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
@@ -376,52 +391,54 @@
       <jump line="68" column="4" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inline.css" />
       <jump line="30" column="9" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/footer.php" />
       <jump line="90" column="37" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
+      <jump line="61" column="8" filename="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/sidebar.php" />
+      <jump line="0" column="0" filename="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/sidebar.php" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>UA-88939336-1</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+CiAgICAgICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAkKCdsaS5wdWJsaWMgdWwnKS5zbGlkZURvd24oMTApOwogICAgICAgICAgICB9KTsKICAgICAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9qcXVlcnkvMy4xLjEvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PCEtLTxzY3JpcHQ+LS0+CjwhLS0gICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXstLT4KPCEtLSAgICAgICAgJCgnbGkuYWN0aXZlIHVsJykuc2xpZGVEb3duKDEwKTstLT4KPCEtLSAgICB9KTstLT4KPCEtLTwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Z1bGxjYWxlbmRhci8zLjAuMS9mdWxsY2FsZW5kYXIubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDw/cGhwIGVjaG8gZmlsZV9nZXRfY29udGVudHMoJ2h0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Jvb3RzdHJhcC1zZWxlY3QvMS4xMi4xL2pzL2Jvb3RzdHJhcC1zZWxlY3QubWluLmpzJyk7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9qcXVlcnkvMy4xLjEvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PCEtLTxzY3JpcHQ+LS0+CjwhLS0gICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXstLT4KPCEtLSAgICAgICAgJCgnbGkuYWN0aXZlIHVsJykuc2xpZGVEb3duKDEwKTstLT4KPCEtLSAgICB9KTstLT4KPCEtLTwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qCgogICAgICAgICAgICAgXHx8fC8KICAgICAgICAgICAgIChvIG8pCiAgICArfn5+fm9vT35+KF8pfn5+fn5+fn4rCiAgICB8IFNpdGUgYnk6ICAgICAgICAgICB8CiAgICB8IEtlcmlnYW4gTWFya2V0aW5nICB8CiAgICB8IEFzc29jaWF0ZXMgICAgICAgICB8CiAgICArfn5+fn5+fn5+fn5+fn5Pb29+fn4rCiAgICAgICAgICAgIHxfX3xfX3wKICAgICAgICAgICAgIHx8IHx8CiAgICAgICAgICAgIG9vTyBPb28KICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigidHVyYm9saW5rczpsb2FkIiwgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9wdXNoKCRsaXN0aW5nc0NhbGVuZGFyQXJyYXksICRjYWxlbmRhcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigidHVyYm9saW5rczpsb2FkIiwgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIChmdW5jdGlvbihpLHMsbyxnLHIsYSxtKXtpWydHb29nbGVBbmFseXRpY3NPYmplY3QnXT1yO2lbcl09aVtyXXx8ZnVuY3Rpb24oKXsKICAgICAgICAgICAgKGlbcl0ucT1pW3JdLnF8fFtdKS5wdXNoKGFyZ3VtZW50cyl9LGlbcl0ubD0xKm5ldyBEYXRlKCk7YT1zLmNyZWF0ZUVsZW1lbnQobyksCiAgICAgICAgbT1zLmdldEVsZW1lbnRzQnlUYWdOYW1lKG8pWzBdO2EuYXN5bmM9MTthLnNyYz1nO20ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSxtKQogICAgfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdodHRwczovL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnLCdnYScpOwoKICAgIGdhKCdjcmVhdGUnLCAnVUEtODg5MzkzMzYtMScsICdhdXRvJyk7CiAgICBnYSgnc2VuZCcsICdwYWdldmlldycpOwoKPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigidHVyYm9saW5rczpsb2FkIiwgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CiAgICAgICAgPD9waHAgZWNobyBmaWxlX2dldF9jb250ZW50cygnL2lubGluZS5jc3MnKTsgPz4KICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigidHVyYm9saW5rczpsb2FkIiwgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCl7CiAgICAgICAgJCgnbGkuYWN0aXZlIHVsJykuc2xpZGVEb3duKDEwKTsKICAgIH0pOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CiAgICAgICAgPD9waHAgZWNobyBmaWxlX2dldF9jb250ZW50cyhnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpLicvaW5saW5lLmNzcycpOyAvL2ltcG9ydCBwYWdlIGxldmVsIGNzcyA/PgogICAgPC9zdHlsZT4K</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCl7CiAgICAgICAgJCgnbGkuYWN0aXZlIHVsJykuc2xpZGVEb3duKDEwKTsKICAgIH0pOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocCBlY2hvIGZpbGVfZ2V0X2NvbnRlbnRzKCdodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MnKTsgLy9pbXBvcnQgcGFnZSBsZXZlbCBjc3MgPz4K</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90dXJib2xpbmtzLzUuMC4wL3R1cmJvbGlua3MubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9qcXVlcnkudHVyYm9saW5rcy8yLjAuMi9qcXVlcnkudHVyYm9saW5rcy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoInR1cmJvbGlua3M6bG9hZCIsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
     </registers>
     <search>
