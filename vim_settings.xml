@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/Sites/baycentralhs.org/public_html/wp-content/themes/baycentralhs/header.php" timestamp="1481829221064">
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="89" />
+        <mark key="^" line="54" column="89" />
+        <mark key="." line="54" column="89" />
+      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/inc/template-tags.php" timestamp="1480607836434">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -160,6 +166,13 @@
         <mark key="." line="96" column="58" />
         <mark key="^" line="96" column="58" />
       </file>
+      <file name="/Volumes/Sites/baycentralhs.org/public_html/wp-content/themes/baycentralhs/footer.php" timestamp="1481829359377">
+        <mark key="'" line="110" column="13" />
+        <mark key="[" line="110" column="59" />
+        <mark key="]" line="110" column="59" />
+        <mark key="^" line="110" column="59" />
+        <mark key="." line="110" column="59" />
+      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-all-listings.php" timestamp="1480618293170">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="15" />
@@ -283,9 +296,6 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
-      <file name="/Volumes/Sites/98realestategroup.com/wp-content/plugins/kma-rafgc-connect/templates/search-engine.php" timestamp="1481315427244">
-        <mark key="^" line="8" column="5" />
-      </file>
       <file name="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page.php" timestamp="1480605931419">
         <mark key="[" line="22" column="69" />
         <mark key="]" line="22" column="69" />
@@ -293,9 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="50" filename="/Volumes/Sites/alwfumf.org/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
-      <jump line="0" column="0" filename="/Volumes/Sites/alwfumf.org/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
-      <jump line="217" column="64" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
       <jump line="0" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/plugins/kma-slider-plugin/kma-slider-plugin.php" />
       <jump line="17" column="40" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/front-page.php" />
       <jump line="103" column="0" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
@@ -393,6 +400,9 @@
       <jump line="90" column="37" filename="/Volumes/Sites/capebeachvacations.com/public_html/wp-content/themes/cbv/page-listing.php" />
       <jump line="61" column="8" filename="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/sidebar.php" />
       <jump line="0" column="0" filename="/Volumes/Sites/gulfclerk.com/html/wp-content/themes/gulfclerk/sidebar.php" />
+      <jump line="0" column="0" filename="/Volumes/Sites/baycentralhs.org/public_html/wp-content/themes/baycentralhs/footer.php" />
+      <jump line="25" column="49" filename="/Volumes/Sites/baycentralhs.org/public_html/wp-content/themes/baycentralhs/footer.php" />
+      <jump line="103" column="13" filename="/Volumes/Sites/baycentralhs.org/public_html/wp-content/themes/baycentralhs/footer.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -408,7 +418,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text encoding="base64">XDxhZGRFdmVudExpc3RlbmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpewo=</text>
@@ -442,15 +452,14 @@
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search encoding="base64">XDxhZGRFdmVudExpc3RlbmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhZGRFdmVudExpc3RlbmVyXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rental</entry>
         <entry>kma</entry>
         <entry>shortcode</entry>
         <entry>$averageNighly</entry>
@@ -470,6 +479,7 @@
         <entry encoding="base64">PGltZw==</entry>
         <entry>datepicker</entry>
         <entry>top</entry>
+        <entry encoding="base64">XDxhZGRFdmVudExpc3RlbmVyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
